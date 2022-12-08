@@ -1,0 +1,15 @@
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\bin\Debug\net7.0\task002.exe
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\bin\Debug\net7.0\task002.deps.json
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\bin\Debug\net7.0\task002.runtimeconfig.json
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\bin\Debug\net7.0\task002.dll
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\bin\Debug\net7.0\task002.pdb
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\obj\Debug\net7.0\task002.csproj.AssemblyReference.cache
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\obj\Debug\net7.0\task002.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\obj\Debug\net7.0\task002.AssemblyInfoInputs.cache
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\obj\Debug\net7.0\task002.AssemblyInfo.cs
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\obj\Debug\net7.0\task002.csproj.CoreCompileInputs.cache
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\obj\Debug\net7.0\task002.dll
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\obj\Debug\net7.0\refint\task002.dll
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\obj\Debug\net7.0\task002.pdb
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\obj\Debug\net7.0\task002.genruntimeconfig.cache
+F:\Nelly\Раз\Обучаловки\Geekrains\Знакомство с языками программирования\Семинар 1\Seminar1\task002\obj\Debug\net7.0\ref\task002.dll
