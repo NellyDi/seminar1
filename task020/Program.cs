@@ -9,5 +9,5 @@ Console.WriteLine("Введите координаты второй точки (
 int x2 = int.Parse(Console.ReadLine()!);
 int y2 = int.Parse(Console.ReadLine()!);
 
-double distance = Math.Sqrt(((x2-x1)*(x2-x1))+((y2-y1)*(y2-y1)));
+double distance = Math.Round(Math.Sqrt(((x2-x1)*(x2-x1))+((y2-y1)*(y2-y1))), 2);
 Console.WriteLine(distance);
