@@ -22,7 +22,7 @@ void Comparison(int[] arr)
     int sum = 0;
     for(int i = 0; i < arr.Length; i++)
     {
-        if (n == arr[i]) sum =+1;
+        if (n == arr[i] || n == -arr[i]) sum =+1;
     }
     if (sum > 0) Console.WriteLine("yes");
     else Console.WriteLine("no");
