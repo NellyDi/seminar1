@@ -4,22 +4,34 @@
 // [1 2 3 4 5] -> 5 8 3
 // [6 7 3 6] -> 36 21
 
-int[] GetArray(int size, int minValue, int maxValue)
+
+Console.Write("Введите элементы массива через пробел: ");
+string elements = Console.ReadLine();
+int[] baseArray = GetArrayFromString(elements);
+
+Console.WriteLine(String.Join(" ", ResultArray(baseArray)));
+
+int[] GetArrayFromString(string stringArray)
 {
-    int[] res = new int[size];
-    for(int i = 0; i<size; i++)
+    string[] nums = stringArray.Split();
+    int[] res = new int[nums.Length];
+
+    for (int i = 0; i < nums.Length; i++)
     {
-        res[i] = new Random().Next(minValue, maxValue);
-        Console.Write($"{res[i]} ");
+        res[i] = int.Parse(nums[i]);
     }
     return res;
 }
-int[] array = GetArray(6, 0, 10);
-int[] res = new int [array.Length/2];
 
-for(int i = 0; i<array.Length; i++)
+int[] ResultArray(int[] array)
+{
+    int size = array.Length / 2;
+    if (array.Length % 2 != 0) size = array.Length / 2 + 1;
+    int[] result = new int[size];
+    for (int i = 0; i < size; i++)
     {
-        res[i] = array[i] * array[array.Length-1-i];
-        Console.WriteLine();
-        Console.Write($"{res[i]} ");
+        if (i == array.Length - 1 - i) result[i] = array[i];
+        else result[i] = array[i] * array[array.Length - 1 - i];
     }
+    return result;
+}
